@@ -1,45 +1,22 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div> <div align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px"> <h1>👋 Hi, I'm Bhanuka Parakrama</h1> <h3>🚀 IT Undergraduate | IT & Business Enthusiast 🇱🇰</h3> <img src="https://komarev.com/ghpvc/?username=bhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </div> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
-  <h1>👋 Hi, I'm <strong>Bhanuka Parakrama</strong></h1>
-  <h3>🚀 Passionate IT Undergraduate | IT & Business Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=bhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
+🎓 Undergraduate — Uva Wellassa University of Sri Lanka
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+💻 Interested in Web Development, MIS, BI, Business Analysis & Project Management
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
+🌱 Currently learning HTML, CSS, JS, PHP, MySQL, Power BI
 
-🎓 **Third-year Undergraduate (BSc. Hons in Industrial Information Technology)**  
-Uva Wellassa University of Sri Lanka
+📦 Working on projects like Suwoda.lk (Herbal e-commerce) and PHP-based systems
 
-💡 I am **passionate about Business Analysis, Project Management, and Process Improvement**, focusing on understanding business needs, optimizing workflows, and delivering effective solutions.
+🎯 Goal: To grow into a skilled IT professional with strength in both business & tech
 
-💻 Interests include  
-- Web Development  
-- Business Analysis & MIS  
-- Business Intelligence  
-- Project Management  
+📍 Location: Sri Lanka 🇱🇰
 
-🌱 Currently learning **HTML, CSS, JS, PHP, MySQL, Java**
+📧 Contact: bhanukap77@gmail.com
 
-📦 Working on projects:  
-- **Suwoda.lk — Herbal & Indigenous Medicine E-commerce**  
-- PHP-based management systems (Admin panels, blog systems, product management)
-
-🎯 **Goal:**  
-To grow into a well-rounded IT professional combining **technology + business** to create meaningful impact.
-
-📍 **Sri Lanka 🇱🇰**
-
-📧 **Contact:** _Add your email here_
-
-💡 **Passionate + Enthusiast** — Technology | Management | Systems | Innovation
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+💡 Passionate + Enthusiast — Tech, Management, Systems & Innovation
 
 <br clear="both"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 🛠️ Technologies & Tools
