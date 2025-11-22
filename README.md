@@ -47,11 +47,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 
-### **Business & Analytics / MIS**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" title="Power BI"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="50" title="ERP / MIS"/>  
+### **BI & Project Management Tools**  
+<img src="https://raw.githubusercontent.com/Bhanuka-Parakrama/Bhanuka/main/BI.jpg" width="50" title="Power BI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Agile / PM"/>  
-
 
 ### **Design & Platforms**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50"/>  
